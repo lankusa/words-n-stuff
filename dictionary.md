@@ -1,18 +1,18 @@
 # Lankusa Dictionary
 ## Pronouns
-I/me: ana
+**I/me:** ana
 
-You: yan
+**You:** yan
 
-They (singular): in
+**They (singular):** in
 
-Everyone: um
+**Everyone:** um
 
-Us/we: ayana
+**Us/we:** ayana
 
-Y'all: yanyan
+**Y'all:** yanyan
 
-They (plural): inin
+**They (plural):** inin
 
 ## Other Words
 Format: **Gloss:** Lankusa
@@ -30,10 +30,6 @@ Format: **Gloss:** Lankusa
 **Word:** san
 
 **Music:** musika
-
-**I/me:** ana
-
-**You:** yan
  
 **Horse:** kapayu
  
