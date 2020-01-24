@@ -53,8 +53,6 @@ Format: **Gloss:** Lankusa
 
 **Japan:** Nipun
  
-**Plural:** -ta
- 
 **Good:** bayika
 
 **All:** satu
