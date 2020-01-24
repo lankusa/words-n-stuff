@@ -58,3 +58,15 @@ Format: **Gloss:** Lankusa
 **All:** satu
 
 **Slovenia:** Sulinya
+
+**Comparative:** -lu
+
+**Want/desire:** yital
+
+**Brother:** sarlu
+
+**Help:** asin
+
+**Life:** artal
+
+**Wallaby:** uyalabi
