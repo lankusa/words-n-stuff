@@ -61,7 +61,7 @@ Format: **Gloss:** Lankusa
 
 **Comparative:** -lu
 
-**Want/desire:** yital
+**Want/desire:** yi-
 
 **Brother:** sarlu
 
@@ -70,3 +70,39 @@ Format: **Gloss:** Lankusa
 **Life:** artal
 
 **Wallaby:** uyalabi
+
+**Eye:** akyur
+
+**Use:** lay(i)-
+
+**See:** layakur
+
+**The:** u
+
+**Posession:** -po
+
+**My/mine:** anapo
+
+**Spare:** asartal
+
+**Past tense:** -til
+
+**1:** un
+
+**2:** du
+
+**3:** tu
+
+**4:** ka
+
+**5:** sin
+
+**6:** sil
+
+**7:** tal
+
+**8:** na
+
+**9:** ki
+
+**0:** kal
