@@ -1,11 +1,27 @@
 # Lankusa Dictionary
+## Pronouns
+I/me: ana
+
+You: yan
+
+They (singular): in
+
+Everyone: um
+
+Us/we: ayana
+
+Y'all: yanyan
+
+They (plural): inin
+
+## Other Words
 Format: **Gloss:** Lankusa
 
 **Negation:** na-
 
 **It:** ta
 
-**They:** tata
+**Those:** tata
  
 **Love:** amur
  
