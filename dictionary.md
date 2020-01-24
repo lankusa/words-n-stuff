@@ -106,3 +106,17 @@ Format: **Gloss:** Lankusa
 **9:** ki
 
 **0:** kal
+
+**Light:** irnu
+
+**Point/dot:** takun
+
+**Star:** irkun
+
+**Sun:** irnutu
+
+**Moon:** irkuntu
+
+**Blow/explode:**  bum
+
+**Away:** aka
