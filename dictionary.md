@@ -120,3 +120,5 @@ Format: **Gloss:** Lankusa
 **Blow/explode:**  bum
 
 **Away:** aka
+
+**Welcome:** bayalu
