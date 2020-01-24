@@ -164,3 +164,31 @@ Format: **Gloss:** Lankusa
 **Travel:** kutu
 
 **Trip:** katu
+
+**If:** yati
+
+**Question:** kiburta
+
+**Sensation; feeling:** sinsatu
+
+**Of:** a
+
+**Ability:** natur
+
+**Talk:** kukulinto
+
+**For:** tanli
+
+**Favor:** asintyu
+
+**Please:** tanli-asintyu
+
+**Ask:** kukulirta
+
+**Thank you:** bayikayanu
+
+**Inside:** akaltir
+
+**Hold:** tasanmu
+
+**Server:** tasanimu
