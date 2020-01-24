@@ -122,3 +122,25 @@ Format: **Gloss:** Lankusa
 **Away:** aka
 
 **Welcome:** bayalu
+
+**Opposite:** -lan
+
+**Into; towards:** akalan
+
+**Know:** yalusi
+
+**Paper:** kal
+
+**Collection; compilation:** yuti
+
+**Book:** kalyuti
+
+**Wiki:** kalyalusi
+
+**Sound:** kuli
+
+**Language:** kukulinam
+
+**Vowel:** kulikyam
+
+**System:** toklar
