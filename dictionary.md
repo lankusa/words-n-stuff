@@ -140,3 +140,27 @@ Format: **Gloss:** Lankusa
 **Vowel:** kulikyam
 
 **System:** toklar
+
+**Time:** tikyamlu, tik(ya)-
+
+**Forever; always:** tikyasatu
+
+**Temporarily:** tikyasatulan
+
+**Never:** tikyasatulantu
+
+**Borrow:** tikyasalan
+
+**Money:** do
+
+**Rock; stone:** yulur
+
+**Throw:** tusaki
+
+**Person:** uman
+
+**Bad:** bayikalan
+
+**Travel:** kutu
+
+**Trip:** katu
