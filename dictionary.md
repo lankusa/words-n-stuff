@@ -75,9 +75,9 @@ Format: **Gloss:** Lankusa
 
 **The:** u
 
-**Posession:** -po
+**Posession:** -pu
 
-**My/mine:** anapo
+**My/mine:** anapu
 
 **Spare:** asartal
 
@@ -139,7 +139,7 @@ Format: **Gloss:** Lankusa
 
 **Vowel:** kulikyam
 
-**System:** toklar
+**System:** tuklar
 
 **Time:** tikyamlu, tik(ya)-
 
@@ -151,7 +151,7 @@ Format: **Gloss:** Lankusa
 
 **Borrow:** tikyasalan
 
-**Money:** do
+**Money:** du
 
 **Rock; stone:** yulur
 
@@ -175,7 +175,7 @@ Format: **Gloss:** Lankusa
 
 **Ability:** natur
 
-**Talk:** kukulinto
+**Talk:** kukulintu
 
 **For:** tanli
 
@@ -203,6 +203,6 @@ Format: **Gloss:** Lankusa
 
 **Taxi:** takusi
 
-**Metro; subway:** meturo
+**Metro; subway:** meturu
 
 **Close:** nirtusi
