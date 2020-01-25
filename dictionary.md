@@ -239,4 +239,4 @@ Format: **Gloss:** Lankusa
 
 **Center:** tupupayi
 
-**Question (addon):** kesutin
+**Question (addon):** kisutin
