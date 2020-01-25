@@ -240,3 +240,5 @@ Format: **Gloss:** Lankusa
 **Center:** tupupayi
 
 **Question (addon):** kisutin
+
+**Full; comprehensive:** satutu
