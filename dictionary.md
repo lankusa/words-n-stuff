@@ -218,3 +218,23 @@ Format: **Gloss:** Lankusa
 **Know:** intilu
 
 **Flag:** ayalaku
+
+**Blue:** bulal
+
+**Place:** yana
+
+**Yellow:** yalu
+
+**Slash (letter):** sukurati
+
+**Top:** tupi
+
+**Bottom:** pupi
+
+**Right:** rantu
+
+**Left:** lanti
+
+**Circle:** sirkal
+
+**Center:** tupupayi
