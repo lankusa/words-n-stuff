@@ -192,3 +192,17 @@ Format: **Gloss:** Lankusa
 **Hold:** tasanmu
 
 **Server:** tasanimu
+
+**Station:** tasanmuti
+
+**Vehicle:** muva
+
+**Train:** taramuva
+
+**Where:** pulasa
+
+**Taxi:** takusi
+
+**Metro; subway:** meturo
+
+**Close:** nirtusi
