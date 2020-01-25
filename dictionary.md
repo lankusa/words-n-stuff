@@ -216,3 +216,5 @@ Format: **Gloss:** Lankusa
 **Also:** iyuti
 
 **Know:** intilu
+
+**Flag:** ayalaku
