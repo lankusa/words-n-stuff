@@ -206,3 +206,13 @@ Format: **Gloss:** Lankusa
 **Metro; subway:** meturu
 
 **Close:** nirtusi
+
+**Person:** -lun
+
+**Create; make:** atusi
+
+**Creator:** atusilun
+
+**Also:** iyuti
+
+**Know:** intilu
