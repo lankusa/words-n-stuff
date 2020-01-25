@@ -242,3 +242,13 @@ Format: **Gloss:** Lankusa
 **Question (addon):** kisutin
 
 **Full; comprehensive:** satutu
+
+**Have the ability to:** naturti
+
+**Phrase; quote:** kukulinma
+
+**Tab; section:** tasani
+
+**Talk; discuss:** kulikulnam
+
+**Here:** pulsalka
