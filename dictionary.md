@@ -2,7 +2,7 @@
 ## Pronouns
 **I/me:** ana
 
-**You:** yan
+**You:** ya
 
 **They (singular):** in
 
@@ -49,7 +49,7 @@ Format: **Gloss:** Lankusa
 
 **Japan:** Nipun
  
-**Good:** bayika
+**Good:** bayuka
 
 **All:** satu
 
@@ -57,7 +57,7 @@ Format: **Gloss:** Lankusa
 
 **Comparative:** -lu
 
-**Want/desire:** yi-
+**Want/desire:** yu-
 
 **Brother:** sarlu
 
@@ -159,7 +159,7 @@ Format: **Gloss:** Lankusa
 
 **Person:** uman
 
-**Bad:** bayikalan
+**Bad:** bayukalan
 
 **Travel:** kutu
 
@@ -185,7 +185,7 @@ Format: **Gloss:** Lankusa
 
 **Ask:** kukulirta
 
-**Thank you:** bayikayanu
+**Thank you:** bayukayanu
 
 **Inside:** akaltir
 
@@ -237,7 +237,7 @@ Format: **Gloss:** Lankusa
 
 **Circle:** sirkal
 
-**Center:** tupupayi
+**Center:** tupupayu
 
 **Question (addon):** kisutin
 
